@@ -1,0 +1,167 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.focustutoringpv.com" resolutions="1x" timestamp="1490563725259">
+  <folder name="css">
+    <file name="site_global.css" crc="105017564"/>
+    <file name="master_home-master.css" crc="114192655" ref="computer-science:subjects:biology:physics:economics:geometry:index:(pre-)-algebra-(12):foreign-language:adv.-calc--multivariable:chemistry:tutors:pre-calculus:english:calculus-(abbc):music-theory"/>
+    <file name="master_resources-master.css" crc="3933970144" ref="computer-science:subjects:biology:physics:economics:geometry:(pre-)-algebra-(12):foreign-language:adv.-calc--multivariable:chemistry:tutors:pre-calculus:english:calculus-(abbc):music-theory"/>
+    <file name="computer-science.css" crc="3842584513" ref="computer-science"/>
+    <file name="subjects.css" crc="40852874" ref="subjects"/>
+    <file name="biology.css" crc="410768563" ref="biology"/>
+    <file name="physics.css" crc="4264205814" ref="physics"/>
+    <file name="economics.css" crc="4246656404" ref="economics"/>
+    <file name="geometry.css" crc="4141724836" ref="geometry"/>
+    <file name="index.css" crc="4003406490" ref="index"/>
+    <file name="_pre-_-algebra-_12_.css" crc="132070976" ref="(pre-)-algebra-(12)"/>
+    <file name="foreign-language.css" crc="3889109474" ref="foreign-language"/>
+    <file name="adv_-calc--multivariable.css" crc="289393969" ref="adv.-calc--multivariable"/>
+    <file name="chemistry.css" crc="60526556" ref="chemistry"/>
+    <file name="tutors.css" crc="4173787470" ref="tutors"/>
+    <file name="pre-calculus.css" crc="189136365" ref="pre-calculus"/>
+    <file name="english.css" crc="4070767303" ref="english"/>
+    <file name="calculus-_abbc_.css" crc="4271259101" ref="calculus-(abbc)"/>
+    <file name="music-theory.css" crc="465982311" ref="music-theory"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="museutils.js" crc="4232573551" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="whatinput.js" crc="86476730" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:tutors"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u340.php" crc="3865557134" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="html5shiv.js" crc="4241844378" ref="subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+  </folder>
+  <folder name="images">
+    <file name="home-master-favicon.ico" crc="461201933" ref="index"/>
+    <file name="booksontable.jpg" crc="3793721201" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="davidl2-u212-fr.png" crc="96313786" ref="index"/>
+    <file name="jamiep2-u214-fr.png" crc="166323158" ref="index"/>
+    <file name="noahw-u1674-fr.png" crc="3811457423" ref="index"/>
+    <file name="network-u5343-fr.png" crc="4139028827" ref="index"/>
+    <file name="student-u5355-fr.png" crc="3983107719" ref="index"/>
+    <file name="bookstack-u5366-fr.png" crc="115973486" ref="index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1774.png" crc="380377693" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="u1774-r.png" crc="4004208145" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="u1778.png" crc="323754964" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="u1778-r.png" crc="4261351205" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="u6485.png" crc="4189409108" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="u6485-r.png" crc="4158698522" ref="index:subjects:tutors:computer-science:(pre-)-algebra-(12):geometry:pre-calculus:calculus-(abbc):adv.-calc--multivariable:biology:chemistry:physics:english:foreign-language:economics:music-theory"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="coding_fade.jpg" crc="3945966472" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="algebra-fade.jpg" crc="15664111" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="acalc-fade.jpg" crc="4018356483" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="calculus-fade.jpg" crc="434974202" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="geometry-fade.jpg" crc="4260612435" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="precalc-fade.jpg" crc="359713260" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="biology-fade.jpg" crc="351535828" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="chemistry-fade.jpg" crc="3805528937" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="physics-fade.jpg" crc="506352521" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="english-fade.jpg" crc="3930567942" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="langauges-fade.jpg" crc="4193480112" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="davidl.jpg" crc="336354089" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="noahw-u4980-fr.jpg" crc="3825607849" ref="tutors"/>
+    <file name="jamiep2-u5239-fr.jpg" crc="3780325232" ref="tutors"/>
+    <file name="cheolmini.jpg" crc="4170217946" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="rachelo.jpg" crc="413205342" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="jefft.jpg" crc="4169741792" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="krisk.jpg" crc="99960423" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="noahk.jpg" crc="427198446" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="isaacy.jpg" crc="219865283" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="armanr.jpg" crc="287659049" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="spencerd.jpg" crc="4002243307" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="andreww.jpg" crc="4114498717" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+    <file name="bens.png" crc="476533613" ref="tutors">
+      <caption webpage="tutors" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="307941442" seo="true" mt="1490563707774" redirect="true"/>
+  <file name="subjects.html" crc="3979620822" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="tutors.html" crc="3914045858" seo="true" mt="1458343790729" redirect="true"/>
+  <file name="computer-science.html" crc="3991494957" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="(pre-)-algebra-(12).html" crc="416551783" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="geometry.html" crc="242430364" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="pre-calculus.html" crc="308823122" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="calculus-(abbc).html" crc="4251728412" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="adv.-calc--multivariable.html" crc="3800427915" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="biology.html" crc="283320571" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="chemistry.html" crc="4006017183" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="physics.html" crc="421268844" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="english.html" crc="4210834808" seo="true" mt="1458343747734" redirect="true"/>
+  <file name="foreign-language.html" crc="217685902" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="economics.html" crc="3957665710" seo="true" mt="1457996760719" redirect="true"/>
+  <file name="music-theory.html" crc="63315611" seo="true" mt="1457996760719" redirect="true"/>
+</manifest>
